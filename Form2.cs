@@ -32,11 +32,6 @@ namespace WeatherAppSelenium
 
         }
 
-        private void Form2_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void sehirlertxtBox_KeyPress(object sender, KeyPressEventArgs e)
         {
             if (e.KeyChar == (char)System.Windows.Forms.Keys.Enter)
