@@ -1,4 +1,4 @@
-# WeatherApp-Selenium-.NET
+# WeatherApp-Selenium-C#
  This project is a weather application developed with selenium technology.
  
 # Contents And Compiles
